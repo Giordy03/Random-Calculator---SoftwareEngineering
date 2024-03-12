@@ -2,7 +2,7 @@
 
 ## Personal assigment 2: individual software process
 
-### Requirement analysis 
+### Overview 
 The program, written in Python, take from the user an input n (positive integer number). That number 
 defines how many expressions the computer must generate. Each expression consists of m terms, m is a 
 random number between three and five, (consequentially the number of operations will be m - 1). Also, 
