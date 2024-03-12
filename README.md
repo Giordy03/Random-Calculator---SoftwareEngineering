@@ -20,13 +20,11 @@ Please, enter a positive integer: 4
 ### Output example in the .txt file
 ```markdown
 <STUDENT ID>
-13 +17 - 1 = 29
+13 + 17 - 1 = 29
 11 * 15 - 5 = 160
 3 + 10 + 4 - 16 = 1
-15 / 5 - 2 = 4
+15 / 5 + 3 - 2 = 4
 ```
-
-
 
 #### University Information 
 - **University**: TongJi University, Shanghai
